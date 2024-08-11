@@ -27,7 +27,7 @@ To run the application, make sure you have Python installed on your system. Then
 A simple Calculator with basic arithmetic operations
 
 ### Features
-= Addition
+- Addition
 - Substraction
 - Divison
 - Multiplication
