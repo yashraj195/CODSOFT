@@ -20,6 +20,21 @@ To run the application, make sure you have Python installed on your system. Then
 4. Navigate to the directory containing the source code files.
 5. Run the command `python your_script_name.py`.
 
+# Internship Project 2
+
+## Simple Calculator
+
+A simple Calculator with basic arithmetic operations
+
+### Features
+- Addition
+- Substraction
+- Divison
+- Multiplication
+- Remainder
+- Choices of operatiuons
+
+
 ### Author
 Created and Designed by Yash Raj
 
