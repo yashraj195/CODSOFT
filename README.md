@@ -34,6 +34,19 @@ A simple Calculator with basic arithmetic operations
 - Remainder
 - Choices of operatiuons
 
+# Internship Project 3
+
+## Contact Book
+
+A Contact Book which will contain information of all your contacts such as Name, Phone No., Email ID and Address
+
+### Features
+- Add Contact
+- View Contacts
+- Search Contact
+- Delete Contact
+- Listbox, Messagebox from Tkinter, Python
+- Mysql database
 
 ### Author
 Created and Designed by Yash Raj
