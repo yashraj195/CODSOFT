@@ -1,0 +1,5 @@
+valid cfg or not?
+check whether given input is valid lhs or not?
+check whether given cfg is containing multiple alternatives. (atleast one /)
+count the no. of alternatives in cfg.
+count the no. of productions in cfg. (no. of arrow symbols)
